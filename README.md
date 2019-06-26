@@ -1,3 +1,6 @@
+[![Open in VS Code](deploybutton-code.svg)](vscode://vscode.git/clone?url=https://github.com/filmgirl/web-apps-node-iot-hub-data-visualization.git)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 # web-apps-node-iot-hub-data-visualization
 
 This repo contains code for a web application, which can read temperature and humidity data from IoT Hub and show the real-time data in a line chart on the web page.
