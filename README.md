@@ -8,7 +8,7 @@
 
 [Open in VS Code](vscode%3A%2f%2f)
 
-[Test Link](atom://settings-view/show-package?package=atom-material-ui)
+[Test Link](atom%3A%2f%2fsettings-view/show-package?package=atom-material-ui)
 
 # web-apps-node-iot-hub-data-visualization
 
