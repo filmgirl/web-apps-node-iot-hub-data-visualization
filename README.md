@@ -6,6 +6,8 @@
 
 [Open in VS Code](vscode%3A%2f%2fvscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
 
+[Open in VS Code](vscode%3A%2f%2f)
+
 [Test Link](atom://settings-view/show-package?package=atom-material-ui)
 
 # web-apps-node-iot-hub-data-visualization
@@ -47,11 +49,11 @@ Sign in to the [Azure portal](https://portal.azure.com/).
 1. [Create](https://portal.azure.com/#create/Microsoft.IotHub), or [select an existing](https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Devices%2FIotHubs), IoT hub.
     - For **Size and Scale**, you may use "F1: Free tier".
 
-1. Select the **Settings | Shared access policies** menu item, open the **service** policy, and copy a connection string to be used in later steps.
+2. Select the **Settings | Shared access policies** menu item, open the **service** policy, and copy a connection string to be used in later steps.
 
-1. Select **Settings | Built-in endpoints | Events**, add a new consumer group (e.g. "monitoring"), and then change focus to save it. Note the name to be used in later steps.
+3. Select **Settings | Built-in endpoints | Events**, add a new consumer group (e.g. "monitoring"), and then change focus to save it. Note the name to be used in later steps.
 
-1. Select **IoT devices**, create a device, and copy device the connection string.
+4. Select **IoT devices**, create a device, and copy device the connection string.
 
 ## Send device data
 
