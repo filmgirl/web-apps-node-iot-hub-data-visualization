@@ -3,6 +3,8 @@
 
 [Open in VS Code](vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
 
+[Test Link](atom://settings-view/show-package?package=atom-material-ui)
+
 # web-apps-node-iot-hub-data-visualization
 
 This repo contains code for a web application, which can read temperature and humidity data from IoT Hub and show the real-time data in a line chart on the web page.
