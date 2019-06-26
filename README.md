@@ -4,6 +4,8 @@
 
 [Open in VS Code](vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
 
+[Open in VS Code](vscode%3A%2f%2fvscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
+
 [Test Link](atom://settings-view/show-package?package=atom-material-ui)
 
 # web-apps-node-iot-hub-data-visualization
