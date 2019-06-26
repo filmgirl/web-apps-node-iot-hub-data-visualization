@@ -1,4 +1,4 @@
-[![Open in VS Code](deploybutton-code.svg)](vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
+[![Open in VS Code](deploybutton-code2.svg)](vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 [Open in VS Code](vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git)
