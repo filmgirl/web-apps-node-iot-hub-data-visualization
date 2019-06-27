@@ -1,5 +1,5 @@
 [![Open in VS Code](deploybutton-code2.svg)](https://cutt.ly/VhScpp)
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 
 <vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git>
 
