@@ -3,6 +3,7 @@
 
 <vscode://vscode.git/clone?url=https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git>
 
+## Making a change
 
 # web-apps-node-iot-hub-data-visualization
 
